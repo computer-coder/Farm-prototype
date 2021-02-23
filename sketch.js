@@ -4,7 +4,6 @@ const Bodies = Matter.Bodies;
 const Constraint = Matter.Constraint;
 
 var engine, world;
-var log1;
 var apple1;
 var apple;
 var money = 100;
